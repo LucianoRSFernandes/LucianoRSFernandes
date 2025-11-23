@@ -23,7 +23,7 @@ Desenvolvedor Back-end com sólida base em linguagem Java, Spring Boot e arquite
 
 ### 🏢 Atuação Profissional
 
-- **FRX Facilities Service** – Porteiro (jan/2024 – atual)
+- **FRX Facilities Service** – Porteiro (jan/2024 – nov/25)
 - **Grupo SAFE** – Porteiro (fev/2022 – fev/2024)
 - **Alternativa Serviços** – Porteiro (jun/2016 – jan/2022)
 - **Galeno Desenvolvimento de Pesquisas** – Analista Técnico (set/2004 – ago/2006)
@@ -47,6 +47,8 @@ Estou atualmente focado em aprofundar meus estudos em **Java** e **Node.js** par
 ---
 
 ### 📌 Projetos em Destaque
+
+- [**magia-biscuit-portal**](https://github.com/LucianoRSFernandes/magia-biscuit-portal)
 
 - [**NTTDATA-microservices**](https://github.com/LucianoRSFernandes/nttdata-microservices)
 
