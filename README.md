@@ -2,19 +2,22 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+# Bem-vindo ao perfil de Luciano Fernandes 👋
 
-# Bem vindo ao perfil de Luciano Fernandes👋
+**Engenheiro de Software || Desenvolvedor Full Stack**
 
-Desenvolvedor Back-end com sólida base em linguagem Java, Spring Boot e arquitetura de microsserviços. Em transição de carreira, trago uma rica bagagem de experiências multidisciplinares que conferem um perfil altamente adaptável e focado em soluções estratégicas.
+Com sólida base em back-end (Java, Spring Boot) e forte atuação atual no ecossistema front-end, trabalho ativamente na modernização arquitetural e no desenvolvimento evolutivo de aplicações. Sou especialista na criação de interfaces dinâmicas e responsivas utilizando Angular, com foco rigoroso em desenvolvimento seguro e aplicação estratégica de Inteligência Artificial (Codex e Cursor) para otimização de código. Trago uma rica bagagem de experiências multidisciplinares que conferem um perfil altamente adaptável, focado em soluções escaláveis e de alto impacto tecnológico e social.
 
 ---
 
-### 🧠 Linguagens Mais Usadas
+### 🧠 Tecnologias e Ferramentas Mais Usadas
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </div>
@@ -23,7 +26,8 @@ Desenvolvedor Back-end com sólida base em linguagem Java, Spring Boot e arquite
 
 ### 🏢 Atuação Profissional
 
-- **FRX Facilities Service** – Porteiro (jan/2024 – nov/25)
+- **NTT DATA** – Engenheiro de Software Júnior / Analista de Sistemas Angular (Atual)
+- **FRX Facilities Service** – Porteiro (jan/2024 – nov/2025)
 - **Grupo SAFE** – Porteiro (fev/2022 – fev/2024)
 - **Alternativa Serviços** – Porteiro (jun/2016 – jan/2022)
 - **Galeno Desenvolvimento de Pesquisas** – Analista Técnico (set/2004 – ago/2006)
@@ -32,29 +36,30 @@ Desenvolvedor Back-end com sólida base em linguagem Java, Spring Boot e arquite
 
 ### 📱 Especialidades
 
-- **Desenvolvimento Back-end**: Java, Spring Boot, Node.js, Express.js
-- **Banco de Dados**: MySQL, H2, SQL
-- **DevOps & Cloud**: Git/GitHub, Maven, Fundamentos de Kubernetes, Azure
-- **Metodologias**: Scrum, Ágil
-- **Outras**: Arquitetura de microsserviços, Engenharia de Prompt
+- **Front-end & UX:** Angular, Angular Material, Bootstrap, TypeScript, HTML5, CSS3
+- **Back-end:** Java, Spring Boot, Node.js, Express.js
+- **Segurança e IA:** Desenvolvimento Seguro (Secure Coding), OpenAI Codex, Cursor IDE
+- **Banco de Dados:** MySQL, H2, PostgreSQL, SQL
+- **DevOps, Cloud & Arquitetura:** Git/GitHub, Maven, Microsserviços, Kubernetes, Azure
+- **Metodologias:** Scrum, Kanban, Clean Code
 
 ---
 
 ### 🚀 O que me motiva
 
-Estou atualmente focado em aprofundar meus estudos em **Java** e **Node.js** para acelerar meu desenvolvimento. Meu objetivo é aplicar o conhecimento adquirido na criação de soluções inovadoras e de alto impacto técnico e social, utilizando metodologias ágeis. Estou entusiasmado para contribuir cada vez mais em projetos que desafiam e promovem crescimento contínuo.
+Estou atualmente focado na modernização de sistemas utilizando o ecossistema **Angular** e aprimorando fluxos de desenvolvimento com **Inteligência Artificial**. Minha visão Full Stack permite uma integração fluida entre contratos de API (Java/Node) e a interface do usuário. Meu objetivo contínuo é aplicar essas tecnologias e metodologias ágeis na criação de soluções seguras, inovadoras e que promovam a democratização do acesso e a inclusão social. 
 
 ---
 
 ### 📌 Projetos em Destaque
 
+- [**Agrotech Manager**](https://github.com/LucianoRSFernandes) *(Front-end Angular / TypeScript)*
 - [**magia-biscuit-portal**](https://github.com/LucianoRSFernandes/magia-biscuit-portal)
-
 - [**NTTDATA-microservices**](https://github.com/LucianoRSFernandes/nttdata-microservices)
-
 - [**Sistema-Bancario**](https://github.com/LucianoRSFernandes/sistema-bancario)
-
 - [**Projeto-Clinica**](https://github.com/LucianoRSFernandes/projeto-clinica)
+
+*(Nota: O repositório do Agrotech Manager e projetos como o portal Seirei no Yume estão no meu perfil para demonstração da nova stack Angular).*
 
 ---
 
